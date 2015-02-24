@@ -1,9 +1,9 @@
 # API Tagiwr Rhannau Ymadrodd
 
-Mae'r API Tagiwr rhannau ymadrodd yn API gwe sy'n caniatau i chi tagio brawddegau iaith Cymraeg gyda'r math rhan ymadrodd a'r treiglad.
-Mae'r API yn ddarpariaeth rhad ac am ddim (gyda cyfyngiadau ar nifer o alwadau yr awr) o'r meddalwedd masnachol [Cysill](http://www.bangor.ac.uk/canolfanbedwyr/cysgliad.php.cy).
+Mae'r API Tagiwr Rhannau Ymadrodd yn API gwe sy'n caniatáu i chi dagio brawddegau Cymraeg gyda'r math rhan ymadrodd a'r treiglad.
+Mae'r API yn ddarpariaeth rhad ac am ddim (gyda chyfyngiadau ar y nifer o alwadau yr awr) o'r meddalwedd masnachol [Cysill](http://www.bangor.ac.uk/canolfanbedwyr/cysgliad.php.cy).
 
-### Strwythyr y brosiect
+### Strwythyr y project
 
 * **doc** - cynnwys dogfennaeth ar sut i ddefnyddio'r API, a dogfennaeth ar gyfer y demos.
 * **tut** - cynnwys ffeiliau ar gyfer demos
