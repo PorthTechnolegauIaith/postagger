@@ -27,7 +27,7 @@ Mae cysylltiad â'r API yn gweithio dros HTTPS yn unig, gan ddefnyddio'r parth `
 ### Enghraifft
 
 ```
-$ curl http://api.techiaigh.org/pos/v1/?api_key=123&text=mae%20hen%20wlad%20fy%20nhadau
+$ curl http://api.techiaith.org/pos/v1/?api_key=123&text=mae%20hen%20wlad%20fy%20nhadau
 
 {
     "success": true,
@@ -225,7 +225,7 @@ The connection to the API is over HTTPS only, from the domain `api.techiaith.org
 ### Example
 
 ```
-$ curl http://pos.api.techiaigh.org/v1/?api_key=123&text=mae%20hen%20wlad%20fy%20nhadau
+$ curl http://pos.api.techiaith.org/v1/?api_key=123&text=mae%20hen%20wlad%20fy%20nhadau
 
 {
     "success": true,
